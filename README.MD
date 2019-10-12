@@ -5,5 +5,5 @@
 # Pourquoi python ? 
 #c'est un logiciel qui semble accessible au neophite que je suis et rapidement utilisable pour mes projet a court, moyen et long terme.
 
-#Mon Parcours
+# Mon Parcours
 #comme dit precedement j'ai etait marier assez tot.j'ai donc du rentre trés rapidement dans le monde du travaille.J'ai etait commercial,teleconseiller,serveur,Soutien metier plateau et enfin manager.
